@@ -1,4 +1,0 @@
-Contacts:
-  Fabio Belavenuto <belavenuto@gmail.com>
-
-  
